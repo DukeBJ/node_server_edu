@@ -1,7 +1,8 @@
 {
   "headers": {
     "/**": {
-      "X-Author": "bjworld"
+      "X-Author": "bjworld",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
